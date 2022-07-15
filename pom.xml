@@ -26,7 +26,7 @@
         <testng.version>6.9.10</testng.version>
         <jacoco.maven.version>0.7.8</jacoco.maven.version>
 
-        <aws.sdk.version>1.11.603</aws.sdk.version>
+        <aws.sdk.version>1.12.261</aws.sdk.version>
         <aws.sdk.version.range>[1.11.0, 1.12.0)</aws.sdk.version.range>
 
 
